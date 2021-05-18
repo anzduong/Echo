@@ -1,0 +1,26 @@
+ID,Name,State,PNGFilename,Text,x,y,visible
+0,Charlotte,characterPage,,Charlotte,1100,150,yes
+1,Allen,characterPage,,Allen,1100,250,yes
+2,Gwen,characterPage,,Gwen,1100,350,yes
+3,Matt,characterPage,,Matt,1100,450,yes
+4,Support,charliPage1,,Continue,1100,350,yes
+5,Disapprove,charliPage1,,Don't Care,1100,450,yes
+6,Support,allenPage1,,Continue,1100,350,yes
+7,Disapprove,allenPage1,,Don't Care,1100,450,yes
+8,Support,gwenPage1,,Continue,1100,350,yes
+9,Disapprove,gwenPage1,,Don't Care,1100,450,yes
+10,Support,mattPage1,,Continue,1100,350,yes
+11,Disapprove,mattPage1,,Don't Care,1100,450,yes
+12,Support,mattPage2,,Expose Cache,1100,350,yes
+13,Disapprove,mattPage2,,Don't Expose,1100,450,yes
+14,Continue,exposedPage,,Continue,1100,400,yes
+15,Support,CharliPage2,,Support,1100,350,yes
+16,Disapprove,CharliPage2,,Disapprove,1100,450,yes
+17,Support,petitionPage1,,Sign,920,500,yes
+18,Disapprove,petitionPage1,,Don't Sign,920,550,yes
+19,Support,threadPage1,,Support,1100,350,yes
+20,Disapprove,threadPage1,,Disapprove,1100,450,yes
+21,Support,antiEchoPage,,Support,1100,350,yes
+22,Disapprove,antiEchoPage,,Disapprove,1100,450,yes
+23,Continue,CharliPage3,,Continue,1100,550,yes
+
