@@ -1,10 +1,7 @@
 /***********************************************************************************
-  Little Red
+  Echo
   by An Duong
 
-  Uses the p5.2DAdventure.js class and collision map. 
-
-  This is a project focusing on the gender violence women face daily. It is recreated through a modern retelling of Little Red Riding Hood as a metaphor of being preyed upon (unknowingly). 
   
 ------------------------------------------------------------------------------------
 ***********************************************************************************/
